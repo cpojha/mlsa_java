@@ -1,6 +1,3 @@
-Here’s a sample `README.md` file for your **Day 1 Assignment** in the **MLSA Workshop**. It's fully customized with details of the assignments and instructions for running the code.
-
-```markdown
 # Day 1 Assignment - MLSA Java Workshop
 
 This repository contains the solution to 5 basic programming assignments covered in **Day 1** of the **Microsoft Learn Student Ambassador (MLSA)** workshop. The codes are written in **Java** and cover foundational concepts like area calculation, multiplication tables, factorials, grade checking, and leap year determination.
@@ -223,7 +220,4 @@ Feel free to modify, experiment, and expand upon the provided code. Happy coding
 ---
 
 ### Author:
-- **Your Name** - *MLSA Workshop Participant*
-```
-
-You can modify the links, project name, or author details based on your specific needs. Let me know if you'd like any adjustments!
+- **Chandra Prakash Ojha** - *MLSA Workshop Participant*
